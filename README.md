@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+#Fecthing data from API by using ReactJs. 
+
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
